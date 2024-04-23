@@ -1,0 +1,55 @@
+{
+    "id": "9a5bba51-f816-41e7-80c5-34ea2f3afb45",
+    "results": [
+        {
+            "document": {
+                "text": "Yes, I am a good person"
+            },
+            "index": 3,
+            "relevance_score": 0.99873066
+        },
+        {
+            "document": {
+                "text": "我是个好人"
+            },
+            "index": 5,
+            "relevance_score": 0.8834373
+        },
+        {
+            "document": {
+                "text": "I am a good person"
+            },
+            "index": 2,
+            "relevance_score": 0.27963173
+        },
+        {
+            "document": {
+                "text": "I am a bad person"
+            },
+            "index": 4,
+            "relevance_score": 0.052424565
+        },
+        {
+            "document": {
+                "text": "I am a good man"
+            },
+            "index": 0,
+            "relevance_score": 0.038538497
+        },
+        {
+            "document": {
+                "text": "I am a good teacher"
+            },
+            "index": 1,
+            "relevance_score": 0.00025915826
+        }
+    ],
+    "meta": {
+        "api_version": {
+            "version": "1"
+        },
+        "billed_units": {
+            "search_units": 1
+        }
+    }
+}
