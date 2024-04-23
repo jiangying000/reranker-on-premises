@@ -1,1 +1,3 @@
-BCEEmbedding
+BCEEmbedding/
+__pycache__/
+.idea/
